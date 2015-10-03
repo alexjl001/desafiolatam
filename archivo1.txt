@@ -1,2 +1,8 @@
 Hola soy archivo1
+<<<<<<< HEAD
 Solo para ver que sucede
+=======
+ 
+ 
+Para prueba de rama
+>>>>>>> dev
