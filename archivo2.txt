@@ -1,6 +1,10 @@
 Hola soy archivo2
 Otra línea
 Tercera linea
+<<<<<<< HEAD
+Solo para ver que sucede
+=======
  
  
 Para prueba de rama
+>>>>>>> dev
